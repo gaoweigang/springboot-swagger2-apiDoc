@@ -1,0 +1,9 @@
+
+<squid:S1170"!Make this final field static too.(‹Œƒ,8Ò­Äß»-
+8squid:S1220""Move this file to a named package.8Ò­Äß»-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÒŸÑŠþÿÿÿÿ8Ò­Äß»-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¥ë¡Ýûÿÿÿÿ8Ò­Äß»-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(û”Ã8Ò­Äß»-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÜÃ¨Ü8Ò­Äß»-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ë²‚Èûÿÿÿÿ8Ò­Äß»-
+jsquid:S00116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Œƒ,8Ò­Äß»-

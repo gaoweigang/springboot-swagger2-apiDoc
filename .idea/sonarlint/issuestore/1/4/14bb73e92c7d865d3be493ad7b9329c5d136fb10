@@ -1,0 +1,4 @@
+
+isquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ï÷” üÿÿÿÿ8·† æ»-
+Vsquid:S1191"5Use classes from the Java API instead of Sun classes.(áÏ¸ıÿÿÿÿ8»­Ÿæ»-
+zsquid:UselessImportCheck"LRemove this unused import 'com.sun.org.apache.bcel.internal.generic.RETURN'.(áÏ¸ıÿÿÿÿ8»­Ÿæ»-
