@@ -11,7 +11,7 @@
   </parent>
 
     <properties>
-        <springfox.swagger.version>2.5.0</springfox.swagger.version>
+        <springfox.swagger.version>2.10.0</springfox.swagger.version>
         <swagger.version>1.5.22</swagger.version>
     </properties>
   
